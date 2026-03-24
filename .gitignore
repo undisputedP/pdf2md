@@ -1,0 +1,7 @@
+venv/
+input/
+output/
+log.txt
+STOP
+__pycache__/
+*.pyc
